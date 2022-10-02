@@ -1,0 +1,17 @@
+h1 {
+  font-family: neue-haas-grotesk-display, sans-serif;
+  font-weight: 700;
+  font-style: normal;
+  font-size: 6rem;
+  color: white;
+}
+a {
+  font-family: neue-haas-grotesk-display, sans-serif;
+  font-weight: 700;
+  font-style: normal;
+  font-size: 6rem;
+  color: red;
+}
+body {
+  background-color: rgb(22, 22, 22);
+}
